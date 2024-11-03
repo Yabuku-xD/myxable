@@ -2,7 +2,7 @@
 
 <p  align="center">
  Myxable takes the user’s files and converts it to the formats the user selects with the help of open source libraries.<br>
- A project for <a href="https://revahack.com/#/" targer="_blank">https://revahack.com/#/</a>
+ A project for <a href="https://reva-hack-1.devfolio.co/" targer="_blank">REVA Hack</a>
 </p>
 
 
